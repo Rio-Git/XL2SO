@@ -16,11 +16,12 @@ In comparison to other similar extensions,  XL2SO has the following <span style=
 (e.g., add fields/methods and inherit other ScriptableObject script) and use it for instance generation feature.  
 
 # Features 
-XL2SO provides 2 features: 1) Generate ScriptableObject Script 2) Generate ScriptableObject Instance.
+XL2SO provides 2 features: 1) Generate ScriptableObject Script 2) Generate ScriptableObject Instance.   
 Both features need just 3 steps shown below:
 
 ## Generate ScriptableObject Script
 ![SG](https://user-images.githubusercontent.com/62422592/77209500-bf9cec00-6b41-11ea-96db-a891d21bbf68.png)
+
 <u><b>Steps:</b></u>
 1. Configure Excel file settings.
 2. Specify the following properties for each field.
@@ -44,7 +45,8 @@ This chapter describes example usage with a sample file named <b> SampleBook.xls
 
 ## Installation
 - Import XL2SO.unitypackage
-or
+
+  or
 - Add files and directories in "Assets/" directory to your project.
 
 ## Launch XL2SO
