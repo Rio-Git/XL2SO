@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1028b5ed3a1f628428e68768eba7aa52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Parent: {instanceID: 0}
+  - m_IG_Texture: {fileID: 2800000, guid: 41e53d20b7adff348b0cbed2c928ba09, type: 3}
+  - m_SG_Texture: {fileID: 2800000, guid: aa9fb6d7ae5130f469bdc2694c308e85, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

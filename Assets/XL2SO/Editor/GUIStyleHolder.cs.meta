@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 7d511a25b9aa13f40a4de66eb5c7f7ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CellTexture: {fileID: 2800000, guid: b8053dd7671af754daba5c304f0d3f66, type: 3}
+  - StartCellTexture: {fileID: 2800000, guid: ab89aeb5308763146ab0e1629b2e8361, type: 3}
+  - LabelTexture: {fileID: 2800000, guid: e95b87942d46fc7459d950fcd0859274, type: 3}
+  - FrameTLTexture: {fileID: 2800000, guid: 4063b402deb29fe45830200f698f8fb8, type: 3}
+  - FrameTCTexture: {fileID: 2800000, guid: 951fc1790e062a9439d320702d5bac49, type: 3}
+  - FrameTRTexture: {fileID: 2800000, guid: a7f905a4fcca04249aa28e058b345ad9, type: 3}
+  - FrameMLTexture: {fileID: 2800000, guid: c238ba5304bab9b4b8c2a4ca95818a38, type: 3}
+  - FrameMCTexture: {fileID: 2800000, guid: 98943c6d424b79445a162324f252b247, type: 3}
+  - FrameMRTexture: {fileID: 2800000, guid: 18652a60f79f7c84a924e162fb7936c6, type: 3}
+  - FrameBLTexture: {fileID: 2800000, guid: 1afe39fa71f5ef3489a82d476dc9452d, type: 3}
+  - FrameBCTexture: {fileID: 2800000, guid: 45531087dc00ca348823fc78bbdead03, type: 3}
+  - FrameBRTexture: {fileID: 2800000, guid: a6e06f6a4c504444ebc2e6a3a0d70c3f, type: 3}
+  - FrameTopSpaceTexture: {fileID: 2800000, guid: f324ff53ec492e144891dcdb5d499f2a,
+      type: 3}
+  - FrameBottomSpaceTexture: {fileID: 2800000, guid: 74e551b5c1607ed41a83ff08ae3c023b,
+      type: 3}
+  - FrameRightSpaceTexture: {fileID: 2800000, guid: a9c93e619805a3948806702285992f98,
+      type: 3}
+  - FrameLeftSpaceTexture: {fileID: 2800000, guid: 83d298b761a30cb4abae11b5a1afc254,
+      type: 3}
+  - FrameHorizonTexture: {fileID: 2800000, guid: 3e299ee4d4459e04091d1b3442ab6727,
+      type: 3}
+  - FrameVerticalTexture: {fileID: 2800000, guid: 1daaddc3d5d85f24da881f5c784a3f43,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
