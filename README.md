@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet">
-
 # Overview 
 XL2SO (Excel to ScriptableObject) is a Unity Editor Extension that helps to create ScriptableObject Script (.cs) and ScriptableObject Instance (.asset) from Excel spreadsheet.  
 The purpose of this extension is to minimize the amount of time spent on writing script code, generating instance and setting those parameters.  
@@ -41,7 +39,9 @@ Both features need just 3 steps shown below:
 
 # Getting Started 
 This chapter describes example usage with a sample file named <b> SampleBook.xlsx</b> which contains <b>Item</b> sheet below.
+
 ![ExcelSheet](https://user-images.githubusercontent.com/62422592/77209577-e9eea980-6b41-11ea-8e8b-7a604261fec6.png)
+
 ## Installation
 - Import XL2SO.unitypackage
 or
@@ -49,9 +49,11 @@ or
 
 ## Launch XL2SO
 Click <b>[Tools]</b> > <b>[XL2SO]</b> in Unity menu bar.
+
 ![MenuItem](https://user-images.githubusercontent.com/62422592/77208685-b579ee00-6b3f-11ea-8eb1-15bbee47045a.png)
 
 Then the following window is opened.
+
 ![Menu](https://user-images.githubusercontent.com/62422592/77208689-b6128480-6b3f-11ea-859e-c0d3eda8ce80.png)
 
 ## Generate ScriptableObject Script
@@ -120,5 +122,5 @@ Click <b>[Generate ScriptableObject Instance]</b> icon in the startup window.
 - Unity 2019.3.6f1
 - .Net Standard 2.0
 
-# Licence
+# License
 - [MIT](LICENSE "MIT")
