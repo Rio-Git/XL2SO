@@ -216,6 +216,7 @@ namespace XL2SO
 
                             // Contents check
                             m_ExcelPart.SheetNameList.Clear();
+                            m_ExcelPart.SelectedSheetIndex = 0;
                             for (int sheet_idx = 0; sheet_idx < m_ExcelPart.Book.NumberOfSheets; sheet_idx++) {
                                 ISheet sheet = m_ExcelPart.Book.GetSheetAt(sheet_idx);
                                 if (sheet.PhysicalNumberOfRows > 0) {
